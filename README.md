@@ -25,7 +25,7 @@ Tenho conhecimentos sólidos em diversas tecnologias, incluindo:
 
 Tenho inglês Básico (B1) e estou estudando para ser intermediário.
 
-![snake gif](https://github.com/rodrigobfcastro/rodrigobfcastro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rodrigobfcastro/rodrigobfcastro/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ## Números do Github
 
